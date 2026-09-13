@@ -6,3 +6,5 @@ npm Required: 12.0.2
 npm create vite@latest . -- --template react-ts
 
 npm install lucide-react
+
+thai initial clone repo
